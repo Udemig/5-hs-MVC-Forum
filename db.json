@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Mehmet",
+      "title": "React Mvc Pattern",
+      "text": "MVC mimarisi ile bileşenleri yönetmek artık daha kolay"
+    },
+    {
+      "id": 2,
+      "user": "Ali",
+      "title": "MVVM Pattern ",
+      "text": "Bu patternde projeyi yönetmek daha kolay"
+    },
+    {
+      "id": 1689710374374,
+      "user": "sadasd",
+      "title": "asd asdasd",
+      "text": "asdasd"
+    },
+    {
+      "id": 1689711201473,
+      "user": "eklendl",
+      "title": "eklendl",
+      "text": "eklendl"
+    },
+    {
+      "id": 1689712402031,
+      "user": "Ali",
+      "title": "Havalar çok sıcak",
+      "text": "bu nedir ya ???"
+    },
+    {
+      "id": 1689712402032,
+      "user": "Ali",
+      "title": "Havalar çok sıcak",
+      "text": "bu nedir ya ???"
+    },
+    {
+      "id": 168971240203,
+      "user": "Ali",
+      "title": "Havalar çok sıcak",
+      "text": "bu nedir ya ???"
+    },
+    {
+      "id": 168971240248,
+      "user": "Ali",
+      "title": "Havalar çok sıcak",
+      "text": "bu nedir ya ???"
+    },
+    {
+      "id": 168920203,
+      "user": "Ali",
+      "title": "Havalar çok sıcak",
+      "text": "bu nedir ya ???"
+    },
+    {
+      "id": 168930248,
+      "user": "Ali",
+      "title": "Havalar çok sıcak",
+      "text": "bu nedir ya ???"
+    }
+  ]
+}
